@@ -3,14 +3,19 @@ share: true
 category: WoW
 ---
 
-## SynastriaCoreLib
-https://github.com/imevul/SynastriaCoreLib
+```ad-example
+title: SynastriaCoreLib (https://github.com/imevul/SynastriaCoreLib)
 
-## Skada Attunes
+A collection of common functions needed by some of the other mods
+
+[Download](https://github.com/imevul/SynastriaCoreLib/releases/latest)
+```
+
+## Skada Attunes - [Download](https://github.com/imevul/SkadaAttunes/releases/latest)
 https://github.com/imevul/SkadaAttunes
 
-## AttuneHelper
+## AttuneHelper - [Download](https://github.com/imevul/AttuneHelper/releases/latest)
 https://github.com/imevul/AttuneHelper
 
-## AtlasLoot_Mythic
+## AtlasLoot_Mythic - [Download](https://github.com/imevul/AtlasLoot_Mythic/releases/latest)
 https://github.com/imevul/AtlasLoot_Mythic
