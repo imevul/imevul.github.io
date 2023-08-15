@@ -1,6 +1,5 @@
 ---
 share: true
-category:
 ---
 
-[[../WoW/Addons|Addons]]
+[[../WoW/Addons/index|AddOns]]
