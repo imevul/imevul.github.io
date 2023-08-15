@@ -1,5 +1,6 @@
 ---
 share: true
+category: WoW
 ---
 
 ## SynastriaCoreLib
